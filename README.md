@@ -3,6 +3,7 @@
 **Table of Contents**
 
 - [cdn](#cdn)
+  - [Install](#install)
   - [jQuery](#jquery)
   - [Font Awesome](#font-awesome)
   - [Bootstrap](#bootstrap)
@@ -11,6 +12,12 @@
   - [IE 兼容](#ie-兼容)
   - [Mazey](#mazey)
   - [vConsole](#vconsole)
+
+## Install
+
+```
+git clone git@github.com:mazeyqian/cdn.git
+```
 
 ## jQuery
 
