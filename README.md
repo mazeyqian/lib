@@ -28,6 +28,8 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
 git clone git@github.com:mazeyqian/cdn.git
 ```
 
+<!-- Page - Begin -->
+
 ## jQuery
 
 链接：https://i.mazey.net/cdn/jquery/2.1.1/jquery.min.js
@@ -166,3 +168,5 @@ JavaSctipt 链接：https://unpkg.com/vconsole@latest/dist/vconsole.min.js
 **附录**
 
 本文档地址：[https://blog.mazey.net/cdn](https://blog.mazey.net/cdn)
+
+<!-- Page - End -->
