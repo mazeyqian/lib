@@ -19,13 +19,15 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
   - [Bootstrap](#bootstrap)
   - [Layer](#layer)
   - [IE 兼容](#ie-兼容)
+  - [Confluence](#confluence)
   - [Mazey](#mazey)
+  - [Tiny](#tiny)
   - [vConsole](#vconsole)
 
 ## Install
 
 ```
-git clone git@github.com:mazeyqian/cdn.git
+git clone https://github.com/mazeyqian/cdn.git
 ```
 
 <!-- Page - Begin -->
@@ -86,7 +88,7 @@ CSS 链接：https://i.mazey.net/cdn/fontawesome/5.15.4/css/all.css
 
 CSS 链接：https://i.mazey.net/cdn/bootstrap/3.4.1/css/bootstrap.min.css
 
-JavaSctipt 链接：https://i.mazey.net/cdn/bootstrap/3.4.1/js/bootstrap.min.js
+JavaScript 链接：https://i.mazey.net/cdn/bootstrap/3.4.1/js/bootstrap.min.js
 
 代码：
 
@@ -131,25 +133,49 @@ IE 支持 CSS3：https://i.mazey.net/cdn/respond/1.4.2/respond.min.js
 <![endif]-->
 ```
 
-## Mazey
+## Confluence
 
 CSS 链接：https://i.mazey.net/mazey-style/lib/confluence.css
 
-JavaSctipt 链接：https://i.mazey.net/mazey/lib/mazey.min.js
+JavaScript 链接：https://i.mazey.net/mazey-style/lib/confluence.js
 
 代码：
 
 ```
 <link type="text/css" href="//i.mazey.net/mazey-style/lib/confluence.css" rel="stylesheet" />
 
+<script type="text/javascript" src="//i.mazey.net/mazey-style/lib/confluence.js"></script>
+```
+
+## Mazey
+
+JavaScript 链接：https://i.mazey.net/mazey/lib/mazey.min.js
+
+代码：
+
+```
 <script type="text/javascript" src="//i.mazey.net/mazey/lib/mazey.min.js"></script>
 ```
 
-官方文档：https://mazey.cn/docs/mazey/index.html
+官方文档：https://i.mazey.net/mazey/docs/t.html
+
+## Tiny
+
+CSS 链接：https://i.mazey.net/polestar/lib/tiny.css
+
+JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
+
+代码：
+
+```
+<link type="text/css" href="//i.mazey.net/polestar/lib/tiny.css" rel="stylesheet" />
+
+<script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
+```
 
 ## vConsole
 
-JavaSctipt 链接：https://unpkg.com/vconsole@latest/dist/vconsole.min.js
+JavaScript 链接：https://unpkg.com/vconsole@latest/dist/vconsole.min.js
 
 代码：
 
