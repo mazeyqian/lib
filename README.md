@@ -157,12 +157,12 @@ JavaScript 链接：https://i.mazey.net/mazey-style/lib/confluence.js
 
 ## Mazey
 
-JavaScript 链接：https://i.mazey.net/mazey/lib/mazey.min.js
+JavaScript 链接：https://i.mazey.net/lib/mazey/3.5.1/mazey.min.js
 
 代码：
 
 ```
-<script type="text/javascript" src="//i.mazey.net/mazey/lib/mazey.min.js"></script>
+<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.5.1/mazey.min.js"></script>
 ```
 
 官方文档：https://i.mazey.net/mazey/docs/t.html
