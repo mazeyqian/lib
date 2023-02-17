@@ -106,17 +106,25 @@ JavaScript 链接：https://i.mazey.net/lib/bootstrap/3.4.1/js/bootstrap.min.js
 
 PC 链接：https://i.mazey.net/lib/layer/layer.js
 
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/layer/layer.js"></script>
+```
+
+Layer 中文非官方文档：https://layui.gitee.io/v2/docs/modules/layer.html
+
+---
+
 Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 
 代码：
 
 ```
-<script type="text/javascript" src="//i.mazey.net/lib/layer/layer.js"></script>
-
 <script type="text/javascript" src="//i.mazey.net/lib/layer/mobile/layer.js"></script>
 ```
 
-中文非官方文档：https://layui.gitee.io/v2/docs/modules/layer.html
+Layer For Mobile 文档：https://www.layui.site/layer/mobile/api.html
 
 ## IE 兼容
 
