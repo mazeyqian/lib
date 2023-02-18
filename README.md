@@ -183,12 +183,12 @@ JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
 
 ## vConsole
 
-JavaScript 链接：https://i.mazey.net/vconsole/3.15.0/vconsole.min.js
+JavaScript 链接：https://i.mazey.net/lib/vconsole/3.15.0/vconsole.min.js
 
 代码：
 
 ```
-<script src="//i.mazey.net/vconsole/3.15.0/vconsole.min.js"></script>
+<script src="//i.mazey.net/lib/vconsole/3.15.0/vconsole.min.js"></script>
 <script>
   // VConsole will be exported to `window.VConsole` by default.
   if (window.VConsole) {
