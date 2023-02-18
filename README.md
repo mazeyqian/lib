@@ -1,4 +1,4 @@
-# cdn
+# lib
 
 ⚠️ Note: The project folders have been cleared, and there is the configuration of Nginx to be compatible with archived assets.
 
@@ -10,7 +10,7 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
 
 **Table of Contents**
 
-- [cdn](#cdn)
+- [lib](#lib)
   - [Install](#install)
   - [jQuery](#jquery)
   - [Lodash](#lodash)
