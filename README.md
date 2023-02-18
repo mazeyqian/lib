@@ -143,16 +143,16 @@ IE 支持 CSS3：https://i.mazey.net/lib/respond/1.4.2/respond.min.js
 
 ## Confluence
 
-CSS 链接：https://i.mazey.net/mazey-style/lib/confluence.css
+CSS 链接：https://i.mazey.net/style/lib/confluence.css
 
-JavaScript 链接：https://i.mazey.net/mazey-style/lib/confluence.js
+JavaScript 链接：https://i.mazey.net/style/lib/confluence.js
 
 代码：
 
 ```
-<link type="text/css" href="//i.mazey.net/mazey-style/lib/confluence.css" rel="stylesheet" />
+<link type="text/css" href="//i.mazey.net/style/lib/confluence.css" rel="stylesheet" />
 
-<script type="text/javascript" src="//i.mazey.net/mazey-style/lib/confluence.js"></script>
+<script type="text/javascript" src="//i.mazey.net/style/lib/confluence.js"></script>
 ```
 
 ## Mazey
