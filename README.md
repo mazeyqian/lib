@@ -15,14 +15,15 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
   - [jQuery](#jquery)
   - [Lodash](#lodash)
   - [Vue 2.x](#vue-2x)
-  - [Font Awesome](#font-awesome)
   - [Bootstrap](#bootstrap)
   - [Layer](#layer)
-  - [IE 兼容](#ie-兼容)
-  - [Confluence](#confluence)
-  - [Mazey](#mazey)
-  - [Tiny](#tiny)
   - [vConsole](#vconsole)
+  - [Font Awesome](#font-awesome)
+  - [IE 兼容](#ie-兼容)
+  - [Sha1](#sha1)
+  - [Mazey](#mazey)
+  - [Confluence](#confluence)
+  - [Tiny](#tiny)
 
 ## Install
 
@@ -72,18 +73,6 @@ git clone https://github.com/mazeyqian/lib.git
 
 官方文档：https://v2.cn.vuejs.org/
 
-## Font Awesome
-
-CSS 链接：https://i.mazey.net/lib/fontawesome/5.15.4/css/all.css
-
-代码：
-
-```
-<link type="text/css" href="//i.mazey.net/lib/fontawesome/5.15.4/css/all.css" rel="stylesheet" />
-```
-
-官方文档：https://fontawesome.com/
-
 ## Bootstrap
 
 CSS 链接：https://i.mazey.net/lib/bootstrap/3.4.1/css/bootstrap.min.css
@@ -126,61 +115,6 @@ Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 
 Layer For Mobile 文档：https://www.layui.site/layer/mobile/api.html
 
-## IE 兼容
-
-IE 支持 HTML5：https://i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js
-
-IE 支持 CSS3：https://i.mazey.net/lib/respond/1.4.2/respond.min.js
-
-代码：
-
-```
-<!--[if lt IE 9]>
-      <script src="//i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="//i.mazey.net/lib/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-```
-
-## Confluence
-
-CSS 链接：https://i.mazey.net/style/lib/confluence.css
-
-JavaScript 链接：https://i.mazey.net/style/lib/confluence.js
-
-代码：
-
-```
-<link type="text/css" href="//i.mazey.net/style/lib/confluence.css" rel="stylesheet" />
-
-<script type="text/javascript" src="//i.mazey.net/style/lib/confluence.js"></script>
-```
-
-## Mazey
-
-JavaScript 链接：https://i.mazey.net/lib/mazey/3.5.1/mazey.min.js
-
-代码：
-
-```
-<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.5.1/mazey.min.js"></script>
-```
-
-官方文档：https://i.mazey.net/mazey/docs/t.html
-
-## Tiny
-
-CSS 链接：https://i.mazey.net/polestar/lib/tiny.css
-
-JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
-
-代码：
-
-```
-<link type="text/css" href="//i.mazey.net/polestar/lib/tiny.css" rel="stylesheet" />
-
-<script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
-```
-
 ## vConsole
 
 JavaScript 链接：https://i.mazey.net/lib/vconsole/3.15.0/vconsole.min.js
@@ -198,6 +132,85 @@ JavaScript 链接：https://i.mazey.net/lib/vconsole/3.15.0/vconsole.min.js
 ```
 
 官方文档：https://github.com/Tencent/vConsole
+
+## Font Awesome
+
+CSS 链接：https://i.mazey.net/lib/fontawesome/5.15.4/css/all.css
+
+代码：
+
+```
+<link type="text/css" href="//i.mazey.net/lib/fontawesome/5.15.4/css/all.css" rel="stylesheet" />
+```
+
+官方文档：https://fontawesome.com/
+
+## IE 兼容
+
+IE 支持 HTML5：https://i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js
+
+IE 支持 CSS3：https://i.mazey.net/lib/respond/1.4.2/respond.min.js
+
+代码：
+
+```
+<!--[if lt IE 9]>
+      <script src="//i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="//i.mazey.net/lib/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+```
+
+## Sha1
+
+JavaScript 链接：https://i.mazey.net/lib/encode/js-sha1/0.6.0/sha1.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/encode/js-sha1/0.6.0/sha1.min.js"></script>
+```
+
+官方文档：https://github.com/emn178/js-sha1
+
+## Mazey
+
+JavaScript 链接：https://i.mazey.net/lib/mazey/3.5.1/mazey.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.5.1/mazey.min.js"></script>
+```
+
+官方文档：https://i.mazey.net/mazey/docs/t.html
+
+## Confluence
+
+CSS 链接：https://i.mazey.net/style/lib/confluence.css
+
+JavaScript 链接：https://i.mazey.net/style/lib/confluence.js
+
+代码：
+
+```
+<link type="text/css" href="//i.mazey.net/style/lib/confluence.css" rel="stylesheet" />
+
+<script type="text/javascript" src="//i.mazey.net/style/lib/confluence.js"></script>
+```
+
+## Tiny
+
+CSS 链接：https://i.mazey.net/polestar/lib/tiny.css
+
+JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
+
+代码：
+
+```
+<link type="text/css" href="//i.mazey.net/polestar/lib/tiny.css" rel="stylesheet" />
+
+<script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
+```
 
 **附录**
 
