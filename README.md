@@ -13,10 +13,10 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
 - [lib](#lib)
   - [Install](#install)
   - [jQuery](#jquery)
-  - [Lodash](#lodash)
   - [Vue 2.x](#vue-2x)
   - [Bootstrap](#bootstrap)
   - [Layer](#layer)
+  - [Lodash](#lodash)
   - [vConsole](#vconsole)
   - [Font Awesome](#font-awesome)
   - [IE 兼容](#ie-兼容)
@@ -46,20 +46,6 @@ git clone https://github.com/mazeyqian/lib.git
 英文官方文档：https://api.jquery.com/
 
 中文非官方文档：https://jquery.cuishifeng.cn/
-
-## Lodash
-
-链接：https://i.mazey.net/lib/lodash/4.17.21/lodash.min.js
-
-代码：
-
-```
-<script type="text/javascript" src="//i.mazey.net/lib/lodash/4.17.21/lodash.min.js"></script>
-```
-
-英文官方文档：https://lodash.com/
-
-中文非官方文档：https://www.lodashjs.com/
 
 ## Vue 2.x
 
@@ -101,7 +87,7 @@ PC 链接：https://i.mazey.net/lib/layer/layer.js
 <script type="text/javascript" src="//i.mazey.net/lib/layer/layer.js"></script>
 ```
 
-Layer 中文非官方文档：https://layui.gitee.io/v2/docs/modules/layer.html
+非官方文档：https://layui.gitee.io/v2/docs/modules/layer.html
 
 ---
 
@@ -113,7 +99,21 @@ Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 <script type="text/javascript" src="//i.mazey.net/lib/layer/mobile/layer.js"></script>
 ```
 
-Layer For Mobile 文档：https://www.layui.site/layer/mobile/api.html
+非官方文档：https://www.layui.site/layer/mobile/api.html
+
+## Lodash
+
+链接：https://i.mazey.net/lib/lodash/4.17.21/lodash.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/lodash/4.17.21/lodash.min.js"></script>
+```
+
+英文官方文档：https://lodash.com/
+
+中文非官方文档：https://www.lodashjs.com/
 
 ## vConsole
 
@@ -182,7 +182,7 @@ JavaScript 链接：https://i.mazey.net/lib/mazey/3.5.1/mazey.min.js
 <script type="text/javascript" src="//i.mazey.net/lib/mazey/3.5.1/mazey.min.js"></script>
 ```
 
-官方文档：https://i.mazey.net/mazey/docs/t.html
+官方文档：https://i.mazey.net/mazey/docs/index.html
 
 ## Confluence
 
