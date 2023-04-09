@@ -69,7 +69,6 @@ JavaScript 链接：https://i.mazey.net/lib/bootstrap/3.4.1/js/bootstrap.min.js
 
 ```
 <link type="text/css" href="//i.mazey.net/lib/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet" />
-
 <script type="text/javascript" src="//i.mazey.net/lib/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 ```
 
@@ -155,8 +154,8 @@ IE 支持 CSS3：https://i.mazey.net/lib/respond/1.4.2/respond.min.js
 
 ```
 <!--[if lt IE 9]>
-      <script src="//i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="//i.mazey.net/lib/respond/1.4.2/respond.min.js"></script>
+  <script src="//i.mazey.net/lib/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="//i.mazey.net/lib/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 ```
 
@@ -194,7 +193,6 @@ JavaScript 链接：https://i.mazey.net/polestar/lib/confluence.js
 
 ```
 <link type="text/css" href="//i.mazey.net/style/lib/confluence.css" rel="stylesheet" />
-
 <script type="text/javascript" src="//i.mazey.net/polestar/lib/confluence.js"></script>
 ```
 
@@ -208,7 +206,6 @@ JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
 
 ```
 <link type="text/css" href="//i.mazey.net/polestar/lib/tiny.css" rel="stylesheet" />
-
 <script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
 ```
 
