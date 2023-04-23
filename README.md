@@ -198,14 +198,14 @@ JavaScript 链接：https://i.mazey.net/polestar/lib/confluence.js
 
 ## Tiny
 
-CSS 链接：https://i.mazey.net/polestar/lib/tiny.css
+CSS 链接：https://i.mazey.net/style/lib/tiny.css
 
 JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
 
 代码：
 
 ```
-<link type="text/css" href="//i.mazey.net/polestar/lib/tiny.css" rel="stylesheet" />
+<link type="text/css" href="//i.mazey.net/style/lib/tiny.css" rel="stylesheet" />
 <script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
 ```
 
