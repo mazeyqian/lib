@@ -16,7 +16,9 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
   - [Vue 2.x](#vue-2x)
   - [Bootstrap](#bootstrap)
   - [Layer](#layer)
+  - [Swiper](#swiper)
   - [Lodash](#lodash)
+  - [Axios](#axios)
   - [vConsole](#vconsole)
   - [Font Awesome](#font-awesome)
   - [IE 兼容](#ie-兼容)
@@ -35,7 +37,10 @@ git clone https://github.com/mazeyqian/lib.git
 
 ## jQuery
 
-链接：https://i.mazey.net/lib/jquery/2.1.1/jquery.min.js
+链接：
+
+- v2.1.1：https://i.mazey.net/lib/jquery/2.1.1/jquery.min.js
+- v3.1.1：https://i.mazey.net/lib/jquery/3.1.1/jquery.min.js
 
 代码：
 
@@ -100,6 +105,21 @@ Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 
 非官方文档：https://www.layui.site/layer/mobile/api.html
 
+## Swiper
+
+CSS 链接：https://i.mazey.net/lib/swiper/9.3.2/swiper.min.css
+
+JavaScript 链接：https://i.mazey.net/lib/swiper/9.3.2/swiper.min.js
+
+代码：
+
+```
+<link type="text/css" href="//i.mazey.net/lib/swiper/9.3.2/swiper.min.css" rel="stylesheet" />
+<script type="text/javascript" src="//i.mazey.net/lib/swiper/9.3.2/swiper.min.js"></script>
+```
+
+官方文档：https://swiperjs.com/get-started
+
 ## Lodash
 
 链接：https://i.mazey.net/lib/lodash/4.17.21/lodash.min.js
@@ -113,6 +133,18 @@ Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 英文官方文档：https://lodash.com/
 
 中文非官方文档：https://www.lodashjs.com/
+
+## Axios
+
+链接：https://i.mazey.net/lib/axios/1.4.0/axios.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/axios/1.4.0/axios.min.js"></script>
+```
+
+官方文档：https://axios-http.com/docs/intro
 
 ## vConsole
 
