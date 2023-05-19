@@ -13,8 +13,9 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
 - [lib](#lib)
   - [Install](#install)
   - [jQuery](#jquery)
-  - [Vue 2.x](#vue-2x)
   - [Bootstrap](#bootstrap)
+  - [Vue 2.x](#vue-2x)
+  - [Vuex](#vuex)
   - [Layer](#layer)
   - [Swiper](#swiper)
   - [Lodash](#lodash)
@@ -52,18 +53,6 @@ git clone https://github.com/mazeyqian/lib.git
 
 中文非官方文档：https://jquery.cuishifeng.cn/
 
-## Vue 2.x
-
-链接：https://i.mazey.net/lib/vue/2.6.12/vue.min.js
-
-代码：
-
-```
-<script type="text/javascript" src="//i.mazey.net/lib/vue/2.6.12/vue.min.js"></script>
-```
-
-官方文档：https://v2.cn.vuejs.org/
-
 ## Bootstrap
 
 CSS 链接：https://i.mazey.net/lib/bootstrap/3.4.1/css/bootstrap.min.css
@@ -80,6 +69,30 @@ JavaScript 链接：https://i.mazey.net/lib/bootstrap/3.4.1/js/bootstrap.min.js
 英文官方文档：https://getbootstrap.com/docs/3.4/
 
 中文非官方文档：https://v3.bootcss.com/
+
+## Vue 2.x
+
+链接：https://i.mazey.net/lib/vue/2.6.12/vue.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/vue/2.6.12/vue.min.js"></script>
+```
+
+官方文档：https://v2.cn.vuejs.org/
+
+## Vuex
+
+链接：https://i.mazey.net/lib/vuex/3.0.1/vuex.min.js
+
+代码：
+
+```
+<script type="text/javascript" src="//i.mazey.net/lib/vuex/3.0.1/vuex.min.js"></script>
+```
+
+官方文档：https://v3.vuex.vuejs.org/zh/
 
 ## Layer
 
