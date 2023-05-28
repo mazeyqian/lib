@@ -53,7 +53,7 @@ git clone https://github.com/mazeyqian/lib.git
 
 中文非官方文档：https://jquery.cuishifeng.cn/
 
-## Bootstrap
+## Bootstrap 3.x
 
 CSS 链接：https://i.mazey.net/lib/bootstrap/3.4.1/css/bootstrap.min.css
 
