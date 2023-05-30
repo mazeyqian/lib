@@ -13,7 +13,7 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
 - [lib](#lib)
   - [Install](#install)
   - [jQuery](#jquery)
-  - [Bootstrap](#bootstrap)
+  - [Bootstrap 3.x](#bootstrap-3x)
   - [Vue 2.x](#vue-2x)
   - [Vuex](#vuex)
   - [Layer](#layer)
@@ -116,7 +116,7 @@ Mobile 链接：https://i.mazey.net/lib/layer/mobile/layer.js
 <script type="text/javascript" src="//i.mazey.net/lib/layer/mobile/layer.js"></script>
 ```
 
-非官方文档：https://www.layui.site/layer/mobile/api.html
+非官方文档：https://www.layui.site/layer/mobile/
 
 ## Swiper
 
