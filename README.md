@@ -4,7 +4,7 @@
 
 ```
 location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.min\.js|vue-2\.6\.12\.min\.js)$ {
-    try_files $uri /archived-cdn/$1 /cdn/index.js;
+    try_files $uri /archived-cdn/$1 /lib/all.js;
 }
 ```
 
