@@ -9,6 +9,9 @@ test/e2e/reports
 undefined/
 temp/
 
+# Cache files
+package-lock.json
+
 # Editor directories and files
 .idea
 # .vscode
