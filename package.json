@@ -5,7 +5,8 @@
   "main": "all.js",
   "scripts": {
     "min:layer.mobile.js": "npx terser layer/mobile/layer.ori.js -o layer/mobile/layer.js --config-file terser.config.json",
-    "min:layer.mobile.css": "npx uglifycss layer/mobile/need/layer.ori.css > layer/mobile/need/layer.css"
+    "min:layer.mobile.css": "npx uglifycss layer/mobile/need/layer.ori.css > layer/mobile/need/layer.css",
+    "min:nginx.js": "npx terser x/nginx/nginx.js -o x/nginx/nginx.min.js --config-file terser.config.json"
   },
   "repository": {
     "type": "git",
