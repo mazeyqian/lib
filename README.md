@@ -1,13 +1,5 @@
 # lib
 
-⚠️ Note: The project folders have been cleared, and there is the configuration of Nginx to be compatible with archived assets.
-
-```
-location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.min\.js|vue-2\.6\.12\.min\.js)$ {
-    try_files $uri /archived-cdn/$1 /lib/all.js;
-}
-```
-
 **Table of Contents**
 
 - [lib](#lib)
@@ -40,6 +32,7 @@ git clone https://github.com/mazeyqian/lib.git
 
 链接：
 
+- v1.9.1：https://i.mazey.net/lib/jquery/1.9.1/jquery.min.js
 - v2.1.1：https://i.mazey.net/lib/jquery/2.1.1/jquery.min.js
 - v3.1.1：https://i.mazey.net/lib/jquery/3.1.1/jquery.min.js
 
@@ -259,3 +252,11 @@ JavaScript 链接：https://i.mazey.net/polestar/lib/tiny.js
 本文档地址：[https://blog.mazey.net/cdn](https://blog.mazey.net/cdn)
 
 <!-- Page - End -->
+
+⚠️ Note: The project folders have been cleared, and there is the configuration of Nginx to be compatible with archived assets.
+
+```
+location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.min\.js|vue-2\.6\.12\.min\.js)$ {
+    try_files $uri /archived-cdn/$1 /lib/all.js;
+}
+```
