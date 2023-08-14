@@ -211,12 +211,12 @@ JavaScript 链接：https://i.mazey.net/lib/encode/js-sha1/0.6.0/sha1.min.js
 
 ## Mazey
 
-JavaScript 链接：https://i.mazey.net/lib/mazey/3.6.6/mazey.min.js
+JavaScript 链接：https://i.mazey.net/lib/mazey/3.9.5/mazey.min.js
 
 代码：
 
 ```
-<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.6.6/mazey.min.js"></script>
+<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.9.5/mazey.min.js"></script>
 ```
 
 官方文档：https://i.mazey.net/mazey/docs/index.html
