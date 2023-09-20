@@ -1,24 +1,24 @@
+<!-- omit from toc -->
 # lib
 
 **Table of Contents**
 
-- [lib](#lib)
-  - [Install](#install)
-  - [jQuery](#jquery)
-  - [Bootstrap 3.x](#bootstrap-3x)
-  - [Vue 2.x](#vue-2x)
-  - [Vuex](#vuex)
-  - [Layer](#layer)
-  - [Swiper](#swiper)
-  - [Lodash](#lodash)
-  - [Axios](#axios)
-  - [vConsole](#vconsole)
-  - [Font Awesome](#font-awesome)
-  - [IE 兼容](#ie-兼容)
-  - [Sha1](#sha1)
-  - [Mazey](#mazey)
-  - [Confluence](#confluence)
-  - [Tiny](#tiny)
+- [Install](#install)
+- [jQuery](#jquery)
+- [Bootstrap 3.x](#bootstrap-3x)
+- [Vue 2.x](#vue-2x)
+- [Vuex](#vuex)
+- [Layer](#layer)
+- [Swiper](#swiper)
+- [Lodash](#lodash)
+- [Axios](#axios)
+- [vConsole](#vconsole)
+- [Font Awesome](#font-awesome)
+- [IE 兼容](#ie-兼容)
+- [Sha1](#sha1)
+- [Mazey](#mazey)
+- [Confluence](#confluence)
+- [Tiny](#tiny)
 
 ## Install
 
