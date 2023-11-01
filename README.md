@@ -98,6 +98,8 @@ PC 链接：<https://i.mazey.net/lib/layer/layer.js>
 <script type="text/javascript" src="//i.mazey.net/lib/layer/layer.js"></script>
 ```
 
+官方文档：<https://layui.dev/>
+
 非官方文档：<https://layui.gitee.io/v2/docs/modules/layer.html>
 
 ---
