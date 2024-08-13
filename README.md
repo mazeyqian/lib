@@ -257,6 +257,9 @@ JavaScript 链接：<https://i.mazey.net/polestar/lib/tiny.js>
 
 <!-- Page - End -->
 
+<!-- omit from toc -->
+## Deploy
+
 ⚠️ Note: The project folders have been cleared, and there is the configuration of Nginx to be compatible with archived assets.
 
 ```text
@@ -264,3 +267,13 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
     try_files $uri /archived-cdn/$1 /lib/all.js;
 }
 ```
+
+<!-- omit from toc -->
+## Contributing
+
+<!-- omit from toc -->
+### Development Environment
+
+| Dependency | Version  |
+|------------|----------|
+| Node.js    | v14.21.3 |
