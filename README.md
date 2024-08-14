@@ -253,7 +253,7 @@ JavaScript 链接：<https://i.mazey.net/polestar/lib/tiny.js>
 <!-- omit from toc -->
 ## 附录
 
-本文档地址：[https://blog.mazey.net/cdn](https://blog.mazey.net/cdn)
+本文档地址：<https://blog.mazey.net/cdn>
 
 <!-- Page - End -->
 
