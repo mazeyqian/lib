@@ -1,6 +1,6 @@
 /*!
- @Name：layer mobile v2.0 弹层组件移动版
- @Author：贤心
+ @Name：layer mobile v2.0 Web Popup Component
+ @Author：XIANXIN
  @License：LGPL
  */
 
