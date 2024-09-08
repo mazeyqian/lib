@@ -214,12 +214,12 @@ JavaScript 链接：<https://i.mazey.net/lib/encode/js-sha1/0.6.0/sha1.min.js>
 
 ## Mazey
 
-JavaScript 链接：<https://i.mazey.net/lib/mazey/3.12.3/mazey.min.js>
+JavaScript 链接：<https://i.mazey.net/lib/mazey/4.7.6/mazey.min.js>
 
 代码：
 
 ```html
-<script type="text/javascript" src="//i.mazey.net/lib/mazey/3.12.3/mazey.min.js"></script>
+<script type="text/javascript" src="//i.mazey.net/lib/mazey/4.7.6/mazey.min.js"></script>
 ```
 
 官方文档：<https://i.mazey.net/mazey/docs/index.html>
@@ -253,9 +253,12 @@ JavaScript 链接：<https://i.mazey.net/polestar/lib/tiny.js>
 <!-- omit from toc -->
 ## 附录
 
-本文档地址：[https://blog.mazey.net/cdn](https://blog.mazey.net/cdn)
+本文档地址：<https://blog.mazey.net/cdn>
 
 <!-- Page - End -->
+
+<!-- omit from toc -->
+## Deploy
 
 ⚠️ Note: The project folders have been cleared, and there is the configuration of Nginx to be compatible with archived assets.
 
@@ -264,3 +267,13 @@ location ~* ^\/cdn\/(jquery-2\.1\.1\.min\.js|bootstrap-3\.4\.1\/js\/bootstrap\.m
     try_files $uri /archived-cdn/$1 /lib/all.js;
 }
 ```
+
+<!-- omit from toc -->
+## Contributing
+
+<!-- omit from toc -->
+### Development Environment
+
+| Dependency | Version  |
+|------------|----------|
+| Node.js    | v14.21.3 |
