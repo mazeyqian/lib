@@ -27,7 +27,7 @@
 git clone https://github.com/mazeyqian/lib.git
 ```
 
-<!-- Page - Begin -->
+<!-- Official - Begin -->
 
 ## jQuery
 
@@ -224,6 +224,10 @@ JavaScript 链接：<https://i.mazey.net/lib/mazey/4.7.6/mazey.min.js>
 
 官方文档：<https://i.mazey.net/mazey/docs/index.html>
 
+<!-- Official - End -->
+
+<!-- Mine - Begin -->
+
 ## Confluence
 
 CSS 链接：<https://i.mazey.net/style/lib/confluence.css>
@@ -250,12 +254,12 @@ JavaScript 链接：<https://i.mazey.net/polestar/lib/tiny.js>
 <script type="text/javascript" src="//i.mazey.net/polestar/lib/tiny.js"></script>
 ```
 
+<!-- Mine - End -->
+
 <!-- omit from toc -->
 ## 附录
 
 本文档地址：<https://blog.mazey.net/cdn>
-
-<!-- Page - End -->
 
 <!-- omit from toc -->
 ## Deploy
